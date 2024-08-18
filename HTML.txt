@@ -11,9 +11,9 @@
 	<br>
 	<br>
 	<p>Autor: SAMUEL SIMBAÑA</p>
-	<p>Lima - ECUADOR</p>
+	<p> - QuitoECUADOR</p>
 </body>
 <footer id="footer">
-		@iscodem 
+		@PATOSUIDE
 </html>
 </html>
